@@ -1,16 +1,17 @@
-ENPM673 - Robot Perception - Project 6:  Image Classification
-Group 27
+Image Classification Convolution Neural Network
+
+Microsoft's Famous Dogs Vs Cats
 
 Instructions:
 
-The dataset "dogs-vs-cats" must be placed in the same directory as "project_6.py"
+The dataset "dogs-vs-cats" must be placed in the same directory as "Convolution_Neural_Network.py"
 and unzipped before the program is executed.
 Additionally, the "test1" and "train" folders must be unzipped.
 All of these zip files should simply be unzipped in their respective directories.
 
 After unzipping these files, the program may simply be run with the following:
 
-python3 -u project_6.py
+python3 -u Convolution_Neural_Network.py
 
 --------------------------------------------------------------------------------------
 
@@ -31,8 +32,10 @@ The following modules were used:
 File structure:
 ----------------------------------------------
 Project_directory
-+---- project_6.py
++---- Convolution_Neural_Network.py
 +---- dogs-vs-cats
       +---- test1
       +---- train
 ----------------------------------------------
+
+Trail_CNN is another python file to implement the same project
